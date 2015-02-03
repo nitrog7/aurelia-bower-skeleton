@@ -221,7 +221,7 @@ function reportChange(event) {
 // Sync browser
 gulp.task('browser-sync', function(cb) {
   browserSync({
-    port: 9001,
+    port: 9000,
     open: false,
     minify: false,
     server: {
