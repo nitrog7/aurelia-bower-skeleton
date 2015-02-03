@@ -1,0 +1,28 @@
+{
+  "name": "aurelia-nl-skeleton",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nitrog7/aurelia-nl-skeleton",
+  "authors": [
+    "Giraldo Rosales <giraldo@nitrogenlabs.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/common",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "*",
+    "font-awesome": "*",
+    "jquery": "*",
+    "aurelia-bootstrapper": "*",
+    "aurelia-http-client": "*",
+    "system.js": "*",
+    "traceur": "*",
+    "es6-module-loader": "*"
+  }
+}
